@@ -1,3 +1,4 @@
 branch_structure.json
 .gitignore
 node_modules
+config.bat
